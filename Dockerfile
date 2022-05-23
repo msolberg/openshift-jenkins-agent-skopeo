@@ -1,4 +1,4 @@
-FROM registry.ci.openshift.org/ocp/4.10:jenkins-agent-base
+FROM openshift:jenkins-agent-base
 
 MAINTAINER Michael Solberg <msolberg@redhat.com>
 
