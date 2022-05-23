@@ -1,4 +1,4 @@
-FROM openshift:jenkins-agent-base
+FROM openshift4/ose-jenkins-agent-base
 
 MAINTAINER Michael Solberg <msolberg@redhat.com>
 
